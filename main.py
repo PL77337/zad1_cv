@@ -20,7 +20,7 @@
             <p>
                 Profile: 
                 <a href="https://github.com/PL77337" target="_blank" rel="noopener noreferrer">GitHub</a> | 
-                <a href="https://vistula.edu.pl/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a href="https://vistula.edu.pl/" target="_blank" rel="noopener noreferrer">Vistula</a>
             </p>
         </section>
 
